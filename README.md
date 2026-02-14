@@ -25,11 +25,21 @@ public class Vlad {
              + "Верю, что мы - будущее!";
     }
     
+    public void vibeCodingDetect() {
+        if (isInTheZone() && musicIsPlaying()) {
+            System.out.println("🎵 Vibe coding detected! 🎵");
+            System.out.println("✨ Продуктивность: 1000%");
+            System.out.println("🔗 Что такое вайбкодинг? " + 
+                "https://en.wikipedia.org/wiki/Vibe_coding");
+        }
+    }
+    
     public void coding() {
         while (true) {
             code();
             learn();
             create();
+            vibeCodingDetect();
         }
     }
 }
