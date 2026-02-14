@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет, я Влад! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<!--
-**JavaSoska777/JavaSoska777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **16 лет** • **Java-Developer** • **Minecraft-dev**
 
-Here are some ideas to get you started:
+[![Telegram](https://img.shields.io/badge/Studio-AkyDev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=0a1a2f)](https://t.me/akydevv)
+[![GitHub](https://img.shields.io/badge/GitHub-JavaSoska777-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4f4f4f)](https://github.com/JavaSoska777)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&random=false&width=600&lines=Java-Developer;Minecraft-Developer;16+years+old+dev;AkyDev+Studio;We+are+the+future" alt="Typing SVG" />
+</div>
+
+## 🚀 О себе
+
+```java
+public class Vlad {
+    private int age = 16;
+    private String role = "Java-Developer";
+    private String specialty = "Minecraft Development";
+    private String studio = "AkyDev";
+    
+    public String getDescription() {
+        return "Разрабатываю плагины и моды для Minecraft. "
+             + "Верю, что мы - будущее!";
+    }
+    
+    public void coding() {
+        while (true) {
+            code();
+            learn();
+            create();
+        }
+    }
+}
