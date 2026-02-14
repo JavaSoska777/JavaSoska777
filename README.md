@@ -11,6 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&random=false&width=600&lines=Java-Developer;Minecraft-Developer;16+years+old+dev;AkyDev+Studio;We+are+the+future" alt="Typing SVG" />
 </div>
 
+🎵 Vibe Coding Detector
+<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=ваш_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Vibe Coding Status" />
+
 ## 🚀 О себе
 
 ```java
@@ -43,3 +46,4 @@ public class Vlad {
         }
     }
 }
+
