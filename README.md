@@ -4,13 +4,13 @@
 
 [![Telegram](https://img.shields.io/badge/Studio-AkyDev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=0a1a2f)](https://t.me/akydevv)
 [![GitHub](https://img.shields.io/badge/GitHub-JavaSoska777-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4f4f4f)](https://github.com/JavaSoska777)
+[![Vibe Coding](https://img.shields.io/badge/-🎵_Vibe_Coding-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=6a1b9a&color=9c27b0)](https://en.wikipedia.org/wiki/Vibe_coding)
 
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&random=false&width=600&lines=Java-Developer;Minecraft-Developer;16+years+old+dev;AkyDev+Studio;We+are+the+future" alt="Typing SVG" />
 </div>
-
 
 ## 🚀 О себе
 
@@ -26,15 +26,6 @@ public class Vlad {
              + "Верю, что мы - будущее!";
     }
     
-    public void vibeCodingDetect() {
-        if (isInTheZone() && musicIsPlaying()) {
-            System.out.println("🎵 Vibe coding detected! 🎵");
-            System.out.println("✨ Продуктивность: 1000%");
-            System.out.println("🔗 Что такое вайбкодинг? " + 
-                "https://en.wikipedia.org/wiki/Vibe_coding");
-        }
-    }
-    
     public void coding() {
         while (true) {
             code();
@@ -44,4 +35,3 @@ public class Vlad {
         }
     }
 }
-
