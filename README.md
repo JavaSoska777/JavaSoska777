@@ -4,6 +4,8 @@
 
 [![Telegram](https://img.shields.io/badge/Studio-AkyDev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=0a1a2f)](https://t.me/akydevv)
 [![GitHub](https://img.shields.io/badge/GitHub-JavaSoska777-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4f4f4f)](https://github.com/JavaSoska777)
+🎵 Vibe Coding Detector
+<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=ваш_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Vibe Coding Status" />
 
 ---
 
@@ -11,8 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&random=false&width=600&lines=Java-Developer;Minecraft-Developer;16+years+old+dev;AkyDev+Studio;We+are+the+future" alt="Typing SVG" />
 </div>
 
-🎵 Vibe Coding Detector
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=ваш_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Vibe Coding Status" />
 
 ## 🚀 О себе
 
