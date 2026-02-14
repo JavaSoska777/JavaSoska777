@@ -35,3 +35,17 @@ public class Vlad {
         }
     }
 }
+```
+
+ Мой стек 
+<div align="center">
+
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Spigot-FF6600?style=for-the-badge&logo=spigot&logoColor=white
+https://img.shields.io/badge/Paper-2C2C2C?style=for-the-badge&logo=paper&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white
+https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white
+https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+</div> 
