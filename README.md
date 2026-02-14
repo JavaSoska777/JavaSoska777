@@ -4,7 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/Studio-AkyDev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=0a1a2f)](https://t.me/akydevv)
 [![GitHub](https://img.shields.io/badge/GitHub-JavaSoska777-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4f4f4f)](https://github.com/JavaSoska777)
-[![Vibe Coding](https://img.shields.io/badge/-🎵_Vibe_Coding-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=6a1b9a&color=9c27b0)](https://en.wikipedia.org/wiki/Vibe_coding)
+[![Vibe Coding](https://img.shields.io/badge/-Vibe_Coding-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=6a1b9a&color=9c27b0)](https://en.wikipedia.org/wiki/Vibe_coding)
 
 ---
 
